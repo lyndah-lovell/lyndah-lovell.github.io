@@ -23,7 +23,7 @@ repository               : "lyndah-lovell/lyndah-lovell.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Lovell_Lyndah_Front.jpg"
+  avatar           : "Lovell_Lyndah_Front_cropped.jpg"
   name             : "Lyndah Lovell"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate"
